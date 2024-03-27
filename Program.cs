@@ -28,6 +28,7 @@ namespace Assignment
                         else
                         {
                             Console.WriteLine(num);
+                            
                         }
                     }
                 }
