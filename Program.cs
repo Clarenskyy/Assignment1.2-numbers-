@@ -9,7 +9,7 @@ namespace Assignment
         {
             for (int num = 1; num <= 100; num++) 
             {
-                if (num % 15 == 0)    
+                if (num % 15 == 0)   
                 {
                     Console.WriteLine("Hello, Goodbye!");
                 }
